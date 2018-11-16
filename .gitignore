@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EasyMobileApp/EasyMobileApp/bin
+/EasyMobileApp/EasyMobileApp/obj/Debug
+/EasyPostsApp/EasyPostsApp/bin
+/EasyPostsApp/EasyPostsApp/obj/Debug
+/EasyPostsApp/EasyPostsApp.Tests/obj/Debug
